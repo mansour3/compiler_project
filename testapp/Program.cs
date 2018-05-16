@@ -10,7 +10,8 @@ namespace testapp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello word");
+            Console.Write("hhh");
+            
         }
     }
 }
